@@ -1,0 +1,230 @@
+baseurl = "http://jillandnick.wedding/"
+languageCode = "en-us"
+title = "Jill & Nick Are Getting Married!"
+theme = "Agency"
+googleAnalytics = "UA-77207901-1"
+
+[params]
+  # search engine meta
+  name = "Jill & Nick"
+  description = "Nick Spreitzer and Jill Ott Wedding Website October 15th 2016"
+  email = "us@jillandnick.wedding"
+
+# Navigation
+[params.navigation]
+  brand = "Jill & Nick's Wedding"
+  weddingDetails = "Wedding Details"
+  hotelBlock = "Hotel"
+  registry_list = "Gifts"
+  team = "About Us"
+  schedule = "Weekend Schedule"
+  # contact = "Contact"
+
+[[menu.postpend]]
+  url = "http://jillandnickwedding.app.rsvpify.com/"
+  name = "RSVP!"
+  weight = 10
+
+[params.hero]
+	title = "Jill & Nick Are Getting Married!"
+	subtitle = "October 15, 2016"
+	buttonText = "Read More"
+
+[params.weddingDetails]
+  enable = true
+  title = "Wedding Details"
+  subtitle = "The 'Where' and 'When'. We already know 'Who'!"
+
+  [[params.weddingDetails.row]]
+
+    [[params.weddingDetails.row.list]]
+        icon = "fa-heart"
+        title = "Ceremony"
+        description = "The ceremony will be held at 5:30 PM, outside (weather permitting) at the [gazebo at Star Hill Ranch](http://www.starhillranch.com/images/gallery/004.jpg) on Saturday October 15, 2016. The exact time is subject to change as we get closer to the actual date. We're aiming for a sunset ceremony."
+
+    [[params.weddingDetails.row.list]]
+        icon = "fa-black-tie"
+        title = "Style"
+        description = "We're going for a semi-formal/rustic-chic motif. So, what should you wear? Just try to dress pretty and you'll probably be fine. Cowboy boots and hats are welcome. (After all, this *is* Texas, y'all!) Guys, ties are *not* required. For the ladies, the bride requests you just refrain from wearing a wedding dress. ;-)"
+
+    [[params.weddingDetails.row.list]]
+        icon = "fa-birthday-cake"
+        title = "Reception"
+        description = "A cocktail hour and then the reception will be held at the [old school house](http://www.starhillranch.com/images/gallery/015.jpg) at Star Hill Ranch, immediately following the ceremony. And after that... we expect to join up at the gorgeous rooftop bar of the Sonesta hotel for continued libations!"
+
+  [[params.weddingDetails.row]]
+
+    [[params.weddingDetails.row.list]]
+        icon = "fa-cutlery"
+        title = "Food"
+        description = "We found a fantastic caterer who will serve us all wonderful Texas BBQ! (It will be a buffet.)"
+
+    [[params.weddingDetails.row.list]]
+        icon = "fa-glass"
+        title = "Drink"
+        description = "We will be offering a selection of complimentary beer and wine."
+
+    [[params.weddingDetails.row.list]]
+        icon = "fa-building"
+        title = "Venue"
+        description = "[Star Hill Ranch](http://www.starhillranch.com/) is reminiscent of a quaint little Hill Country town from the early 1900s. All of the 22 historic buildings, originally constructed between 1850 and 1935, have been relocated from around the state and carefully restored. We can't wait to share this unique and memorable place with you!"
+
+  [[params.weddingDetails.row]]
+
+  [[params.weddingDetails.row.list]]
+      icon = "fa-bed"
+      title = "Hotels"
+      description = "We have a [hotel room block at Sonesta Bee Cave](#hotel-block), and we strongly encourage everyone to take advantage of the great deal we are getting at this fantastic new hotel. However, if you prefer an alternative, there are two other hotels nearby: [Mountain Star Hotel](http://www.mountainstarlodge.com/) and [Hampton Inn & Suites](http://hamptoninn3.hilton.com/en/hotels/texas/hampton-inn-and-suites-austin-lakeway-AUSLWHX/index.html). Keep in mind, the Sonesta provides a shuttle to Star Hill Ranch; other hotels may not provide this service."
+
+  [[params.weddingDetails.row.list]]
+      icon = "fa-plane"
+      title = "Flight Info"
+      description = "If you're flying into Austin, we highly recommend [Southwest](https://www.southwest.com/flight/shortcut/low-fare-search.html) or [JetBlue](http://www.jetblue.com/bestfarefinder/#/). For folks in LA: Based on our experience, any one-way fare to Austin less than $150 is a deal you should jump on!"
+
+    [[params.weddingDetails.row.list]]
+        icon = "fa-car"
+        title = "Car Rentals"
+        description = "If you need or want to rent a car, we highly recommend using [Silvercar](https://www.silvercar.com). We've had great experiences with them! If you do, you can use our referral code: 'NSPREITZER'. All their cars are silver Audi A4's and their service is awesome. However, they do charge $69/day, so if you'd like a less-expensive option, take a look at the [traditional car rental companies at the airport](http://www.austintexas.gov/department/ground-transportation)."
+
+[params.schedule]
+  enable = true
+	title = "Schedule of Events"
+	subtitle = "All the things to look forward to during our wedding weekend extravaganza!"
+
+[params.hotelBlock]
+  enable = true
+	title = "Hotel Block"
+	subtitle = "The contemporary and stylish Sonesta Bee Cave Austin overlooks the rolling terrain of Texas Hill Country."
+
+[params.registry_list]
+  enable = true
+  title = "Gift Registries"
+  subtitle = "For those who have expressed interest in buying a gift..."
+  description = "Although we already have most of the things we need, for those who have expressed an interest in purchasing a wedding gift, we've registered with **Bed Bath & Beyond**. Please [click here](http://www.bedbathandbeyond.com/store/giftregistry/view_registry_guest.jsp?pwsToken=&eventType=Wedding&registryId=542989226&wcref=yes&wcsid=293540525) to view our list of pre-selected items. We've also set up a [honeymoon fund](https://cruiseplanners.honeymoonwishes.com/Honeymoon-Registry-316010-Fiji-Islands-Nick-Spreitzer-Jill-Ott.html), should anyone wish to contribute!"
+
+  [[params.registries]]
+    logo = "bed-bath-logo.png"
+    link = "http://www.bedbathandbeyond.com/store/giftregistry/view_registry_guest.jsp?pwsToken=&eventType=Wedding&registryId=542989226&wcref=yes&wcsid=293540525"
+
+  [[params.registries]]
+    logo = "honeymoon-fund.png"
+    link = "https://cruiseplanners.honeymoonwishes.com/Honeymoon-Registry-316010-Fiji-Islands-Nick-Spreitzer-Jill-Ott.html"
+
+[params.team]
+  enable = true
+	title = "The Couple"
+	subtitle = "Couples that ski together, stay together. Or something like that. :)"
+	description = "Keep scrolling down, down, down for more about us! <br/><br/> (Hey Rich! I put that Bruce reference here just for YOU! You better take notice!!)<br/>(You too, Tracy!)"
+
+	[[params.team.members]]
+		img = "jill-solo.jpg"
+		name = "Jill Ott"
+		position = "Future Wife"
+		social = [
+			["fa-facebook", "https://www.facebook.com/jillannott"]
+		]
+
+	[[params.team.members]]
+		img = "me-solo.jpg"
+		name = "Nick Spreitzer"
+		position = "Future Husband"
+		social = [
+			["fa-facebook", "https://www.facebook.com/nspreitzer"]
+		]
+
+  [params.about]
+    title = "Our Story"
+    subtitle = "A brief synopis of our time together"
+    endpoint = "Dark Times. (They hadn't met yet.)"
+
+      [[params.about.events]]
+        img = "rings.jpg"
+        date = "October 15, 2016"
+        title = "The Big Day"
+        description = "With this ring I thee wed!"
+
+      [[params.about.events]]
+        img = "eek.jpg"
+        date = "Spring 2016"
+        title = "Getting Real"
+        description = "I guess we should start planning the wedding now, eh?"
+
+      [[params.about.events]]
+        img = "new-house.jpg"
+        date = "October 2015"
+        title = "A New Home"
+        description = "After a full year of searching, Jill and Nick purchase a beautiful new home together in Austin, less than one mile from Jill's first home. After moving an average of once a year since he was 18, Nick is relieved at the thought of never moving ever again."
+
+      [[params.about.events]]
+        img = "engaged.jpg"
+        date = "April 2015"
+        title = "Engaged!"
+        description = "After holing himself away in his <strike>man cave</strike> office, for several weeks - admittedly planning something 'special' - Nick still manages to surprise Jill by proposing to her on his birthday with [an elaborate, 30 minute video](http://jillwillyoumarry.me/) featuring interviews with many of their family and friends. Jill of course said YES."
+
+      [[params.about.events]]
+        img = "dwyce.jpg"
+        date = "August 2014"
+        title = "One Year Anniversary"
+        description = "Jill and Nick celebrate one year together and decide to cohabitate. Nick says 'So long!' to Houston and moves in with Jill at her home in Austin."
+
+    	[[params.about.events]]
+    		img = "cousins.jpg"
+    		date = "April 2014"
+    		title = "International Travels"
+    		description = "Together for six months, Jill and Nick decide to travel to Germany together to visit Nick's extended family. They ate. They drank. They gained ten pounds each."
+
+    	[[params.about.events]]
+    		img = "turkey.png"
+    		date = "November 2013"
+    		title = "Meeting The Families"
+    		description = "Jill and Nick fly to California for an early Thanksgiving, where Jill meets Nick's family for the first time. Later in the month, they travel to Dallas for an official Thanksgiving dinner with Jill's family where Nick meets the rest of Jill's family for the first time. The next morning, Nick tries to wash his feet too quickly and slips in the shower, narrowly escaping injury. A permanent inside joke is born."
+
+      [[params.about.events]]
+    		img = "beers.png"
+    		date = "September 2013"
+    		title = "Jill's Father Interrogates Nick"
+    		description = "After meeting Nick for the first time, Jill's dad decides he'd better have 'a talk' (man to man) with Nick. Since they both lived in Houston at the time, Jim asked Nick to meet him one evening for a beer at Jim's favorite watering hole, [Ron's Pub](http://ronspubhouston.com/). Nick and Jim drank several pints of beer together and Jim subsequently decided Nick must be O-K after all."
+
+    	[[params.about.events]]
+    		img = "first-date.jpg"
+    		date = "August 10, 2013"
+    		title = "Best. First Date. Ever."
+    		description = "Nick takes the plunge and drives to Austin to meet Jill for the first time. Their first date lasts about 22 hours. "
+
+    	[[params.about.events]]
+    		img = "okcupid.png"
+    		date = "July 25, 2013"
+    		title = "First Contact"
+    		description = "Jill spots Nick's picture on OkCupid. He lived 150 miles away in Houston, but she can't resist his rugged good looks. She writes him a message immediately and eagerly awaits a reply."
+
+# Contact section
+[params.contact]
+  enable = true
+	title = "Contact us"
+	subtitle  = "Lorem ipsum dolor sit amet consectetur."
+	buttonText = "Send message"
+
+	# 'warning' defines error messages for invalid inputs
+	[params.contact.form.name]
+		text = "Your Name *"
+		warning = "Please enter your name."
+
+	[params.contact.form.email]
+		text = "Your Email *"
+		warning = "Please enter your email address."
+
+	[params.contact.form.phone]
+		text = "Your Phone *"
+		warning = "Please enter your phone number."
+
+	[params.contact.form.message]
+		text = "Your Message *"
+		warning = "Please enter a message."
+
+[params.footer]
+  enable = true
+	copyright = "**You an oak man?** *Oak's nice.*"
+
+[[params.footer.quicklinks]]
+	text = "Theme forked from Hugo Agency"
+	link = "https://github.com/digitalcraftsman/hugo-agency-theme"

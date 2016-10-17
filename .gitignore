@@ -1,0 +1,3 @@
+public/
+!Hugo/bin/
+.sass-cache/

@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
+<head>
+    {{ partial "head.html" . }}
+</head>
+    <body id="page-top" class="index">
+        {{ partial "nav.html" . }}
+        {{ partial "hero.html" . }}
+
+        {{ if .Site.Params.weddingDetails.enable }}
+            {{ partial "weddingDetails.html" . }}
+        {{ end }}
+
+        {{ if .Site.Params.schedule.enable }}
+            {{ partial "schedule.html" . }}
+        {{ end }}
+
+        {{ if .Site.Params.hotelBlock.enable }}
+            {{ partial "hotelBlock.html" . }}
+        {{ end }}
+
+        {{ if .Site.Params.registry_list.enable }}
+            {{ partial "registry.html" . }}
+        {{ end }}
+
+        {{ if .Site.Params.portfolio.enable }}
+            {{ partial "portfolio.html" . }}
+        {{ end }}
+
+        {{ if .Site.Params.team.enable }}
+            {{ partial "team.html" . }}
+            {{ partial "about.html" . }}
+            {{ partial "pictures.html" . }}
+        {{ end }}
+
+        <!-- {{ if .Site.Params.contact.enable }}
+            {{ partial "contact.html" . }}
+        {{ end }} -->
+
+        {{ if .Site.Params.footer.enable }}
+            {{ partial "footer.html" . }}
+        {{ end }}
+
+        {{ if .Site.Params.portfolio.enable }}
+            {{ partial "modals.html" . }}
+        {{ end }}
+
+        {{ partial "js.html" . }}
+    </body>
+</html>
