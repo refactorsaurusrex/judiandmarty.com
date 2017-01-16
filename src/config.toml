@@ -1,18 +1,17 @@
-baseurl = "http://jillandnick.wedding/"
+baseurl = "http://judiandmarty.com"
 languageCode = "en-us"
-title = "Jill & Nick Are Getting Married!"
+title = "Judi & Marty Are Getting Married!"
 theme = "Agency"
-googleAnalytics = "UA-77207901-1"
 
 [params]
   # search engine meta
-  name = "Jill & Nick"
-  description = "Nick Spreitzer and Jill Ott Wedding Website October 15th 2016"
-  email = "us@jillandnick.wedding"
+  name = "Judi and Marty"
+  description = "Judi Lynn Ott and Marty Kelly Wedding Website March 4th 2017"
+  email = "us@judiandmarty.com"
 
 # Navigation
 [params.navigation]
-  brand = "Jill & Nick's Wedding"
+  brand = "Judi & Marty's Wedding"
   weddingDetails = "Wedding Details"
   hotelBlock = "Hotel"
   registry_list = "Gifts"
@@ -21,12 +20,12 @@ googleAnalytics = "UA-77207901-1"
   # contact = "Contact"
 
 [[menu.postpend]]
-  url = "http://jillandnickwedding.app.rsvpify.com/"
+  url = "http://judiandmarty.app.rsvpify.com/"
   name = "RSVP!"
   weight = 10
 
 [params.hero]
-	title = "Jill & Nick Are Getting Married!"
+	title = "Judi & Marty Are Getting Married!"
 	subtitle = "October 15, 2016"
 	buttonText = "Read More"
 
@@ -100,15 +99,15 @@ googleAnalytics = "UA-77207901-1"
   enable = true
   title = "Gift Registries"
   subtitle = "For those who have expressed interest in buying a gift..."
-  description = "Although we already have most of the things we need, for those who have expressed an interest in purchasing a wedding gift, we've registered with **Bed Bath & Beyond**. Please [click here](http://www.bedbathandbeyond.com/store/giftregistry/view_registry_guest.jsp?pwsToken=&eventType=Wedding&registryId=542989226&wcref=yes&wcsid=293540525) to view our list of pre-selected items. We've also set up a [honeymoon fund](https://cruiseplanners.honeymoonwishes.com/Honeymoon-Registry-316010-Fiji-Islands-Nick-Spreitzer-Jill-Ott.html), should anyone wish to contribute!"
+  description = "Although we already have most of the things we need, for those who have expressed an interest in purchasing a wedding gift, we've registered with **Bed Bath & Beyond**. Please [click here](http://google.com) to view our list of pre-selected items. We've also set up a [honeymoon fund](https://google.com), should anyone wish to contribute!"
 
   [[params.registries]]
     logo = "bed-bath-logo.png"
-    link = "http://www.bedbathandbeyond.com/store/giftregistry/view_registry_guest.jsp?pwsToken=&eventType=Wedding&registryId=542989226&wcref=yes&wcsid=293540525"
+    link = "#"
 
   [[params.registries]]
     logo = "honeymoon-fund.png"
-    link = "https://cruiseplanners.honeymoonwishes.com/Honeymoon-Registry-316010-Fiji-Islands-Nick-Spreitzer-Jill-Ott.html"
+    link = "#"
 
 [params.team]
   enable = true
@@ -159,7 +158,7 @@ googleAnalytics = "UA-77207901-1"
         img = "engaged.jpg"
         date = "April 2015"
         title = "Engaged!"
-        description = "After holing himself away in his <strike>man cave</strike> office, for several weeks - admittedly planning something 'special' - Nick still manages to surprise Jill by proposing to her on his birthday with [an elaborate, 30 minute video](http://jillwillyoumarry.me/) featuring interviews with many of their family and friends. Jill of course said YES."
+        description = "After holing himself away in his <strike>man cave</strike> office, for several weeks - admittedly planning something 'special' - Nick still manages to surprise Jill by proposing to her on his birthday with [an elaborate, 30 minute video](http://google.com) featuring interviews with many of their family and friends. Jill of course said YES."
 
       [[params.about.events]]
         img = "dwyce.jpg"
