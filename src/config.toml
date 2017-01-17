@@ -1,7 +1,7 @@
 baseurl = "http://judiandmarty.com"
 languageCode = "en-us"
 title = "Judi & Marty Are Getting Married!"
-theme = "Agency"
+theme = "agency"
 
 [params]
   # search engine meta
