@@ -1,3 +1,3 @@
 ConEmuC -GuiMacro Rename 0 "hugo"
-cd .\Hugo\jillandnick.wedding\
+cd .\src
 hugo server
