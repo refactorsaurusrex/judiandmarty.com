@@ -1,7 +1,4 @@
 language: ruby
-
-rvm:
-  - 2.0
   
 env:
   - secure: MJhO+4J2/474d2o6DrQ2/kXNkCioTAoB23X0lIbQB7njiqhPK3EiGqaZrpHaRhbaCcZaQbmrscyTiNKTUPB4SVxWqYRSr0REBbe79EHfm2nR2ygXuz679tLtEN0SD2Sr5eQXH7MmSJ3m2ZUmlFq2jPSa8SN3UBqZcqQ2Kv2oSmSND4NEkvrOgu5PZqZwI7C+msSFswX0SW6z6ewVF5TkphqcEMxvIl9tYUikhsap0j8kfNeSnwZHiDZnWpURE7Ex3aMuEu+ZaJTzJoLqKV1T3acqUcbsQAUmUKIEGjyVSKPDu4S/44ZBvs0HfksCKLd7tKJRP3qCPADjnpq4qD5jIw==
