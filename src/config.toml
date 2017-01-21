@@ -113,7 +113,7 @@ theme = "agency"
   enable = true
 	title = "The Couple"
 	subtitle = "Couples that ski together, stay together. Or something like that. :)"
-	description = "Keep scrolling down, down, down for more about us! <br/><br/> (Hey Rich! I put that Bruce reference here just for YOU! You better take notice!!)<br/>(You too, Tracy!)"
+	description = "Keep scrolling down for more about us!"
 
 	[[params.team.members]]
 		img = "judi.jpg"
