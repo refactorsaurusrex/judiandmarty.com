@@ -39,51 +39,51 @@ theme = "agency"
     [[params.weddingDetails.row.list]]
         icon = "fa-heart"
         title = "Ceremony"
-        description = "The ceremony will be held at 5:30 PM, outside (weather permitting) at the [gazebo at Star Hill Ranch](http://www.starhillranch.com/images/gallery/004.jpg) on Saturday October 15, 2016. The exact time is subject to change as we get closer to the actual date. We're aiming for a sunset ceremony."
+        description = "The magic will happen in Austin, TX at [Vintage Villas](http://www.vintagevillas.com/), which overlooks Lake Travis. The address is 4209 Eck Lane Austin TX 78734. (A map is below.)"
 
     [[params.weddingDetails.row.list]]
         icon = "fa-black-tie"
         title = "Style"
-        description = "We're going for a semi-formal/rustic-chic motif. So, what should you wear? Just try to dress pretty and you'll probably be fine. Cowboy boots and hats are welcome. (After all, this *is* Texas, y'all!) Guys, ties are *not* required. For the ladies, the bride requests you just refrain from wearing a wedding dress. ;-)"
+        description = "DRESS CODE GOES HERE"
 
     [[params.weddingDetails.row.list]]
         icon = "fa-birthday-cake"
         title = "Reception"
-        description = "A cocktail hour and then the reception will be held at the [old school house](http://www.starhillranch.com/images/gallery/015.jpg) at Star Hill Ranch, immediately following the ceremony. And after that... we expect to join up at the gorgeous rooftop bar of the Sonesta hotel for continued libations!"
+        description = "RECEPTION DETAILS GO HERE"
 
   [[params.weddingDetails.row]]
 
     [[params.weddingDetails.row.list]]
         icon = "fa-cutlery"
         title = "Food"
-        description = "We found a fantastic caterer who will serve us all wonderful Texas BBQ! (It will be a buffet.)"
+        description = "FOOD DETAILS GO HERE"
 
     [[params.weddingDetails.row.list]]
         icon = "fa-glass"
         title = "Drink"
-        description = "We will be offering a selection of complimentary beer and wine."
+        description = "WE PROBABLY CAN REMOVE A DRINKS SECTION, YES?"
 
     [[params.weddingDetails.row.list]]
         icon = "fa-building"
         title = "Venue"
-        description = "[Star Hill Ranch](http://www.starhillranch.com/) is reminiscent of a quaint little Hill Country town from the early 1900s. All of the 22 historic buildings, originally constructed between 1850 and 1935, have been relocated from around the state and carefully restored. We can't wait to share this unique and memorable place with you!"
+        description = "ADDITIONAL VENUE DETAILS CAN GO HERE"
 
   [[params.weddingDetails.row]]
 
   [[params.weddingDetails.row.list]]
       icon = "fa-bed"
       title = "Hotels"
-      description = "We have a [hotel room block at Sonesta Bee Cave](#hotel-block), and we strongly encourage everyone to take advantage of the great deal we are getting at this fantastic new hotel. However, if you prefer an alternative, there are two other hotels nearby: [Mountain Star Hotel](http://www.mountainstarlodge.com/) and [Hampton Inn & Suites](http://hamptoninn3.hilton.com/en/hotels/texas/hampton-inn-and-suites-austin-lakeway-AUSLWHX/index.html). Keep in mind, the Sonesta provides a shuttle to Star Hill Ranch; other hotels may not provide this service."
+      description = "HOTEL INFORMATION GOES HERE"
 
   [[params.weddingDetails.row.list]]
       icon = "fa-plane"
       title = "Flight Info"
-      description = "If you're flying into Austin, we highly recommend [Southwest](https://www.southwest.com/flight/shortcut/low-fare-search.html) or [JetBlue](http://www.jetblue.com/bestfarefinder/#/). For folks in LA: Based on our experience, any one-way fare to Austin less than $150 is a deal you should jump on!"
+      description = "WILL YOU HAVE MANY GUESTS FLYING IN?"
 
     [[params.weddingDetails.row.list]]
         icon = "fa-car"
         title = "Car Rentals"
-        description = "If you need or want to rent a car, we highly recommend using [Silvercar](https://www.silvercar.com). We've had great experiences with them! If you do, you can use our referral code: 'NSPREITZER'. All their cars are silver Audi A4's and their service is awesome. However, they do charge $69/day, so if you'd like a less-expensive option, take a look at the [traditional car rental companies at the airport](http://www.austintexas.gov/department/ground-transportation)."
+        description = "WILL GUESTS NEED TRANSPORTATION?"
 
 [params.schedule]
   enable = true
