@@ -11,7 +11,7 @@ body {
   color: #777; }
 
 .text-primary {
-  color: brown; }
+  color: #9c27b0; }
 
 p {
   font-size: 14px;
@@ -28,10 +28,10 @@ a.active {
   outline: 0; }
 
 a {
-  color: brown; }
+  color: #9c27b0; }
 
 p a {
-  color: red;
+  color: purple;
   text-decoration: underline; }
 
 p a:hover {
@@ -42,7 +42,7 @@ a:hover,
 a:focus,
 a:active,
 a.active {
-  color: #FD4646; }
+  color: #ce93d8; }
 
 h1,
 h2,
@@ -64,21 +64,21 @@ h6 {
   background-color: #222; }
 
 .btn-primary {
-  border-color: brown;
+  border-color: #9c27b0;
   text-transform: uppercase;
   font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
   font-weight: 700;
   color: #fff;
-  background-color: brown; }
+  background-color: #9c27b0; }
 
 .btn-primary:hover,
 .btn-primary:focus,
 .btn-primary:active,
 .btn-primary.active,
 .open .dropdown-toggle.btn-primary {
-  border-color: brown;
+  border-color: #9c27b0;
   color: #fff;
-  background-color: #FD4646; }
+  background-color: #ce93d8; }
 
 .btn-primary:active,
 .btn-primary.active,
@@ -100,32 +100,32 @@ fieldset[disabled] .btn-primary:active,
 .btn-primary.disabled.active,
 .btn-primary[disabled].active,
 fieldset[disabled] .btn-primary.active {
-  border-color: brown;
-  background-color: #FD4646; }
+  border-color: #9c27b0;
+  background-color: #ce93d8; }
 
 .btn-primary .badge {
-  color: brown;
+  color: #9c27b0;
   background-color: #fff; }
 
 .btn-xl {
   padding: 20px 40px;
-  border-color: brown;
+  border-color: #9c27b0;
   border-radius: 3px;
   text-transform: uppercase;
   font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
   font-size: 18px;
   font-weight: 700;
   color: #fff;
-  background-color: brown; }
+  background-color: #9c27b0; }
 
 .btn-xl:hover,
 .btn-xl:focus,
 .btn-xl:active,
 .btn-xl.active,
 .open .dropdown-toggle.btn-xl {
-  border-color: brown;
+  border-color: #9c27b0;
   color: #fff;
-  background-color: #FD4646; }
+  background-color: #ce93d8; }
 
 .btn-xl:active,
 .btn-xl.active,
@@ -147,11 +147,11 @@ fieldset[disabled] .btn-xl:active,
 .btn-xl.disabled.active,
 .btn-xl[disabled].active,
 fieldset[disabled] .btn-xl.active {
-  border-color: brown;
-  background-color: #FD4646; }
+  border-color: #9c27b0;
+  background-color: #ce93d8; }
 
 .btn-xl .badge {
-  color: brown;
+  color: #9c27b0;
   background-color: #fff; }
 
 .navbar-default {
@@ -160,27 +160,27 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .navbar-brand {
   font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
-  color: #CE3434; }
+  color: #9c27b0; }
 
 .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-brand:focus,
 .navbar-default .navbar-brand:active,
 .navbar-default .navbar-brand.active {
-  color: #FD4646; }
+  color: #ce93d8; }
 
 .navbar-default .navbar-collapse {
   border-color: rgba(255, 255, 255, 0.02); }
 
 .navbar-default .navbar-toggle {
-  border-color: brown;
-  background-color: brown; }
+  border-color: #9c27b0;
+  background-color: #9c27b0; }
 
 .navbar-default .navbar-toggle .icon-bar {
   background-color: #fff; }
 
 .navbar-default .navbar-toggle:hover,
 .navbar-default .navbar-toggle:focus {
-  background-color: #FD4646; }
+  background-color: #ce93d8; }
 
 .navbar-default .nav li a {
   text-transform: uppercase;
@@ -192,17 +192,17 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .nav li a:hover,
 .navbar-default .nav li a:focus {
   outline: 0;
-  color: #FD4646; }
+  color: #ce93d8; }
 
 .navbar-default .navbar-nav > .active > a {
   border-radius: 0;
   color: #fff;
-  background-color: brown; }
+  background-color: #9c27b0; }
 
 .navbar-default .navbar-nav > .active > a:hover,
 .navbar-default .navbar-nav > .active > a:focus {
   color: #fff;
-  background-color: brown; }
+  background-color: #9c27b0; }
 
 @media (min-width: 768px) {
   .navbar-default {
@@ -573,7 +573,7 @@ section#contact .form-group textarea.form-control {
   height: 236px; }
 
 section#contact .form-control:focus {
-  border-color: brown;
+  border-color: #9c27b0;
   box-shadow: none; }
 
 section#contact::-webkit-input-placeholder {
@@ -646,7 +646,7 @@ ul.social-buttons li a {
 ul.social-buttons li a:hover,
 ul.social-buttons li a:focus,
 ul.social-buttons li a:active {
-  background-color: #FD4646; }
+  background-color: #ce93d8; }
 
 .btn:focus,
 .btn:active,
@@ -734,7 +734,7 @@ img::-moz-selection {
   background: 0 0; }
 
 body {
-  -webkit-tap-highlight-color: brown; }
+  -webkit-tap-highlight-color: #9c27b0; }
 
 .map-container {
   position: relative;
@@ -783,12 +783,12 @@ body {
   height: 100%; }
 
 ul.nav.navbar-nav.navbar-right li a.page-top-nav:hover {
-  background-color: brown;
+  background-color: #9c27b0;
   color: white;
   border-radius: 3px; }
 
 .timeline li:last-of-type .timeline-image {
-  background-color: brown; }
+  background-color: #9c27b0; }
 
 .big {
   vertical-align: middle;
@@ -810,13 +810,13 @@ table.schedule td {
   height: 30px; }
 
 table.schedule td.time {
-  border-right: 3px solid #A52A2A;
+  border-right: 3px solid #9c27b0;
   padding-right: 10px;
   text-align: right;
   width: 120px; }
 
 table.schedule td.description {
-  border-right: 3px solid #A52A2A;
+  border-right: 3px solid #9c27b0;
   padding-left: 10px;
   width: 400px; }
 
@@ -862,5 +862,5 @@ table.schedule td.description pre {
   .header-block {
     display: block; } }
 .callout {
-  background-color: rgba(165, 42, 42, 0.25);
+  background-color: rgba(156, 39, 176, 0.2);
   font-weight: bold; }
