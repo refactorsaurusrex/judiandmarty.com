@@ -1,2 +1,2 @@
 ConEmuC -GuiMacro Rename 0 "sass"
-sass --sourcemap=none --watch .\Hugo\jillandnick.wedding\themes\agency\Sass:.\Hugo\jillandnick.wedding\themes\agency\static\css
+sass --sourcemap=none --watch .\src\themes\agency\Sass:.\src\themes\agency\static\css
