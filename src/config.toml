@@ -116,19 +116,19 @@ theme = "agency"
 	description = "Keep scrolling down, down, down for more about us! <br/><br/> (Hey Rich! I put that Bruce reference here just for YOU! You better take notice!!)<br/>(You too, Tracy!)"
 
 	[[params.team.members]]
-		img = "jill-solo.jpg"
-		name = "Jill Ott"
+		img = "judi.jpg"
+		name = "Judi Lynn Ott"
 		position = "Future Wife"
 		social = [
-			["fa-facebook", "https://www.facebook.com/jillannott"]
+			["fa-facebook", "https://www.facebook.com/judilynnott"]
 		]
 
 	[[params.team.members]]
-		img = "me-solo.jpg"
-		name = "Nick Spreitzer"
+		img = "marty.jpg"
+		name = "Marty Kelly"
 		position = "Future Husband"
 		social = [
-			["fa-facebook", "https://www.facebook.com/nspreitzer"]
+			["fa-facebook", "https://www.facebook.com/MJK3000"]
 		]
 
   [params.about]
