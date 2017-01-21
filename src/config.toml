@@ -222,7 +222,7 @@ theme = "agency"
 
 [params.footer]
   enable = true
-	copyright = "**You an oak man?** *Oak's nice.*"
+	copyright = "**I love you.** *I know.*"
 
 [[params.footer.quicklinks]]
 	text = "Theme forked from Hugo Agency"
