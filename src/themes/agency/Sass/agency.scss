@@ -4,11 +4,11 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
-$primary-color: brown;
-$hover-color: #FD4646;
+$primary-color: #9c27b0;
+$hover-color: #ce93d8;
 $highlight-color: rgba(165, 42, 42, 0.25);
-$text-link-color: red;
-$logo-primary-color: #CE3434;
+$text-link-color: purple;
+$logo-primary-color: #9c27b0;
 $warning-color: #FFA445;
 
 body {
@@ -977,14 +977,14 @@ table.schedule td {
 }
 
 table.schedule td.time {
-  border-right: 3px solid #A52A2A;
+  border-right: 3px solid $primary-color;
   padding-right: 10px;
   text-align: right;
   width: 120px;
 }
 
 table.schedule td.description {
-  border-right: 3px solid #A52A2A;
+  border-right: 3px solid $primary-color;
   padding-left: 10px;
   width: 400px;
 }
@@ -1040,6 +1040,6 @@ table.schedule td.description pre {
   }
 }
 .callout {
-  background-color: rgba(165, 42, 42, 0.25);
+  background-color: rgba(156, 39, 176, 0.2);
   font-weight:bold;
 }
