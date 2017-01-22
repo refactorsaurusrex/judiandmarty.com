@@ -61,7 +61,7 @@ theme = "agency"
     [[params.weddingDetails.row.list]]
         icon = "fa-glass"
         title = "Drink"
-        description = "WE PROBABLY CAN REMOVE A DRINKS SECTION, YES?"
+        description = "DRINK DETAILS GO HERE"
 
     [[params.weddingDetails.row.list]]
         icon = "fa-building"
@@ -138,7 +138,7 @@ theme = "agency"
 
       [[params.about.events]]
         img = "rings.jpg"
-        date = "October 15, 2016"
+        date = "March 4, 2017"
         title = "The Big Day"
         description = "With this ring I thee wed!"
 
