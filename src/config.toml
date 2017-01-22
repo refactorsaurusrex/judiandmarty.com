@@ -19,10 +19,10 @@ theme = "agency"
   schedule = "Weekend Schedule"
   # contact = "Contact"
 
-[[menu.postpend]]
-  url = "http://judiandmarty.app.rsvpify.com/"
-  name = "RSVP!"
-  weight = 10
+# [[menu.postpend]]
+#   url = "http://judiandmarty.app.rsvpify.com/"
+#   name = "RSVP!"
+#   weight = 10
 
 [params.hero]
 	title = "Judi & Marty Are Getting Married!"
