@@ -95,8 +95,7 @@ theme = "agency"
 [params.team]
   enable = true
 	title = "The Couple"
-	subtitle = "Couples that ski together, stay together. Or something like that. :)"
-	description = "Keep scrolling down for more about us!"
+	description = "Judi and Marty have known each other since the 1990's.<br/><br/>It took Marty this long to figure out she liked him."
 
 	[[params.team.members]]
 		img = "judi.jpg"
