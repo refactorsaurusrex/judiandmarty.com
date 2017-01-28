@@ -74,7 +74,7 @@ theme = "agency"
 	subtitle = "Here is what you can look forward to during our wedding weekend!"
 
 [params.hotelBlock]
-  enable = true
+  enable = false
 	title = "Hotel Block"
 	subtitle = "The contemporary and stylish Sonesta Bee Cave Austin overlooks the rolling terrain of Texas Hill Country."
 
