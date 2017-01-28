@@ -71,7 +71,7 @@ theme = "agency"
 [params.schedule]
   enable = true
 	title = "Schedule of Events"
-	subtitle = "All the things to look forward to during our wedding weekend extravaganza!"
+	subtitle = "Here is what you can look forward to during our wedding weekend!"
 
 [params.hotelBlock]
   enable = true
