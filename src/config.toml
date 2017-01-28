@@ -66,7 +66,7 @@ theme = "agency"
     [[params.weddingDetails.row.list]]
         icon = "fa-bed"
         title = "Hotels"
-        description = "A small number of rooms are available, first come first serve, at the Vintage Villas. Other accommodations are available in the area."
+        description = "A small number of rooms are available, first come first serve, at the Vintage Villas. Other accommodations are available in the area. To book a room, please call the reservation line: **(512) 266-9333**."
 
 [params.schedule]
   enable = true
