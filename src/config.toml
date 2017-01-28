@@ -127,61 +127,37 @@ theme = "agency"
         img = "rings.jpg"
         date = "March 4, 2017"
         title = "The Big Day"
-        description = "With this ring I thee wed!"
-
-      [[params.about.events]]
-        img = "eek.jpg"
-        date = "Spring 2016"
-        title = "Getting Real"
-        description = "I guess we should start planning the wedding now, eh?"
-
-      [[params.about.events]]
-        img = "new-house.jpg"
-        date = "October 2015"
-        title = "A New Home"
-        description = "After a full year of searching, Jill and Nick purchase a beautiful new home together in Austin, less than one mile from Jill's first home. After moving an average of once a year since he was 18, Nick is relieved at the thought of never moving ever again."
+        description = "Judi and Marty March Forth! (Get it?)"
 
       [[params.about.events]]
         img = "engaged.jpg"
-        date = "April 2015"
-        title = "Engaged!"
-        description = "After holing himself away in his <strike>man cave</strike> office, for several weeks - admittedly planning something 'special' - Nick still manages to surprise Jill by proposing to her on his birthday with [an elaborate, 30 minute video](http://google.com) featuring interviews with many of their family and friends. Jill of course said YES."
+        date = "December 18, 2016"
+        title = "Marty proposes!"
+        description = "... and Judi said Yes!!"
 
       [[params.about.events]]
-        img = "dwyce.jpg"
-        date = "August 2014"
-        title = "One Year Anniversary"
-        description = "Jill and Nick celebrate one year together and decide to cohabitate. Nick says 'So long!' to Houston and moves in with Jill at her home in Austin."
-
-    	[[params.about.events]]
-    		img = "cousins.jpg"
-    		date = "April 2014"
-    		title = "International Travels"
-    		description = "Together for six months, Jill and Nick decide to travel to Germany together to visit Nick's extended family. They ate. They drank. They gained ten pounds each."
-
-    	[[params.about.events]]
-    		img = "turkey.png"
-    		date = "November 2013"
-    		title = "Meeting The Families"
-    		description = "Jill and Nick fly to California for an early Thanksgiving, where Jill meets Nick's family for the first time. Later in the month, they travel to Dallas for an official Thanksgiving dinner with Jill's family where Nick meets the rest of Jill's family for the first time. The next morning, Nick tries to wash his feet too quickly and slips in the shower, narrowly escaping injury. A permanent inside joke is born."
+        img = "roomies.gif"
+        date = "March 18, 2016"
+        title = "Roomies!"
+        description = "Marty moves in with Judi!"
 
       [[params.about.events]]
-    		img = "beers.png"
-    		date = "September 2013"
-    		title = "Jill's Father Interrogates Nick"
-    		description = "After meeting Nick for the first time, Jill's dad decides he'd better have 'a talk' (man to man) with Nick. Since they both lived in Houston at the time, Jim asked Nick to meet him one evening for a beer at Jim's favorite watering hole, [Ron's Pub](http://ronspubhouston.com/). Nick and Jim drank several pints of beer together and Jim subsequently decided Nick must be O-K after all."
+        img = "first-date.png"
+        date = "May 16, 2015"
+        title = "First Date"
+        description = "Judi and Marty’s first date!"
+
+      [[params.about.events]]
+        img = "moving-van.jpeg"
+        date = "March 21, 2015"
+        title = "Marty Moves To Austin"
+        description = "... and Judi assigned herself to Marty as his own personal tour guide to Austin."
 
     	[[params.about.events]]
-    		img = "first-date.jpg"
-    		date = "August 10, 2013"
-    		title = "Best. First Date. Ever."
-    		description = "Nick takes the plunge and drives to Austin to meet Jill for the first time. Their first date lasts about 22 hours. "
-
-    	[[params.about.events]]
-    		img = "okcupid.png"
-    		date = "July 25, 2013"
-    		title = "First Contact"
-    		description = "Jill spots Nick's picture on OkCupid. He lived 150 miles away in Houston, but she can't resist his rugged good looks. She writes him a message immediately and eagerly awaits a reply."
+    		img = "they-meet.png"
+    		date = "1997 or 1998"
+    		title = "They Meet"
+    		description = "Judi and Marty met through mutual friends."
 
 # Contact section
 [params.contact]
