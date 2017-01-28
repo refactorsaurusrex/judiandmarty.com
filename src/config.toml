@@ -16,7 +16,7 @@ theme = "agency"
   hotelBlock = "Hotel"
   registry_list = "Gifts"
   team = "About Us"
-  schedule = "Weekend Schedule"
+  schedule = "Schedule of Events"
   # contact = "Contact"
 
 # [[menu.postpend]]
