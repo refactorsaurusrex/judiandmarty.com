@@ -205,7 +205,7 @@ theme = "agency"
 
 [params.footer]
   enable = true
-	copyright = "**I love you.** *I know.*"
+	copyright = "Park's closed folks."
 
 [[params.footer.quicklinks]]
 	text = "Theme forked from Hugo Agency"
