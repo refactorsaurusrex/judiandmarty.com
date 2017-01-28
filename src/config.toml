@@ -63,12 +63,10 @@ theme = "agency"
         title = "Drink"
         description = "Iced Tea, Water, Fruit Punch, Orange and Cranberry Juice, and Coffee will be provided."
 
-  [[params.weddingDetails.row]]
-
-  [[params.weddingDetails.row.list]]
-      icon = "fa-bed"
-      title = "Hotels"
-      description = "A small number of rooms are available, first come first serve, at the Vintage Villas. Other accommodations are available in the area."
+    [[params.weddingDetails.row.list]]
+        icon = "fa-bed"
+        title = "Hotels"
+        description = "A small number of rooms are available, first come first serve, at the Vintage Villas. Other accommodations are available in the area."
 
 [params.schedule]
   enable = true
