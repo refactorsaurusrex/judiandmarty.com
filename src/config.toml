@@ -39,51 +39,36 @@ theme = "agency"
     [[params.weddingDetails.row.list]]
         icon = "fa-heart"
         title = "Ceremony"
-        description = "The magic will happen in Austin, TX at [Vintage Villas](http://www.vintagevillas.com/), which overlooks Lake Travis. The address is 4209 Eck Lane Austin TX 78734. (A map is below.)"
+        description = "The magic will happen on Saturday March 4, 2017 at 10:30AM in Austin, TX at the Gazebo Gardens at [Vintage Villas](http://www.vintagevillas.com/), which overlooks Lake Travis. The address is 4209 Eck Lane Austin TX 78734. (A map is below.)"
 
     [[params.weddingDetails.row.list]]
         icon = "fa-black-tie"
         title = "Style"
-        description = "DRESS CODE GOES HERE"
+        description = "The dress code is somewhere between 'Dressy Casual' and 'Casual'. Just try to dress pretty and you’ll be fine. [For clarification, read this](https://www.theknot.com/content/wedding-guest-attire-cheat-sheet). Guys, ties are not required. For the ladies, the bride requests you just refrain from wearing a wedding dress. ;-)"
 
     [[params.weddingDetails.row.list]]
         icon = "fa-birthday-cake"
         title = "Reception"
-        description = "RECEPTION DETAILS GO HERE"
+        description = "Immediately following the ceremony we will be taking a picture with us and all of our guests. Yard games will be available while the Bride, Groom, and Wedding party are being photographed. After photos, a brunch reception will be held in the Event Center adjacent to the ceremony site at Vintage Villas."
 
   [[params.weddingDetails.row]]
 
     [[params.weddingDetails.row.list]]
         icon = "fa-cutlery"
         title = "Food"
-        description = "FOOD DETAILS GO HERE"
+        description = "We will be serving a brunch with Stuffed French Toast, Migas, Salad, Breakfast Potatoes, Garden Vegetable Medley. A vegan option will also be available."
 
     [[params.weddingDetails.row.list]]
         icon = "fa-glass"
         title = "Drink"
-        description = "DRINK DETAILS GO HERE"
-
-    [[params.weddingDetails.row.list]]
-        icon = "fa-building"
-        title = "Venue"
-        description = "ADDITIONAL VENUE DETAILS CAN GO HERE"
+        description = "Iced Tea, Water, Fruit Punch, Orange and Cranberry Juice, and Coffee will be provided."
 
   [[params.weddingDetails.row]]
 
   [[params.weddingDetails.row.list]]
       icon = "fa-bed"
       title = "Hotels"
-      description = "HOTEL INFORMATION GOES HERE"
-
-  [[params.weddingDetails.row.list]]
-      icon = "fa-plane"
-      title = "Flight Info"
-      description = "WILL YOU HAVE MANY GUESTS FLYING IN?"
-
-    [[params.weddingDetails.row.list]]
-        icon = "fa-car"
-        title = "Car Rentals"
-        description = "WILL GUESTS NEED TRANSPORTATION?"
+      description = "A small number of rooms are available, first come first serve, at the Vintage Villas. Other accommodations are available in the area."
 
 [params.schedule]
   enable = true
