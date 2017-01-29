@@ -44,29 +44,29 @@ theme = "agency"
     [[params.weddingDetails.row.list]]
         icon = "fa-black-tie"
         title = "Style"
-        description = "The dress code is somewhere between 'Dressy Casual' and 'Casual'. Just try to dress pretty and you’ll be fine. [For clarification, read this](https://www.theknot.com/content/wedding-guest-attire-cheat-sheet). Guys, ties are not required. For the ladies, the bride requests you just refrain from wearing a wedding dress. ;-)"
+        description = "The dress code is somewhere between 'Dressy Casual' and 'Casual'. Just try to dress pretty and you’ll be fine. No t-shirts, please. [For clarification, read this](https://www.theknot.com/content/wedding-guest-attire-cheat-sheet). Guys, ties are not required. For the ladies, the bride requests you just refrain from wearing a wedding dress. ;-)"
 
     [[params.weddingDetails.row.list]]
         icon = "fa-birthday-cake"
         title = "Reception"
-        description = "Immediately following the ceremony we will be taking a picture with us and all of our guests. Yard games will be available while the Bride, Groom, and Wedding party are being photographed. After photos, a brunch reception will be held in the Event Center adjacent to the ceremony site at Vintage Villas."
+        description = "Immediately following the ceremony we would like to have a picture taken with us and all of our guests. Yard games will be available while the Bride, Groom, Family, and Wedding party are being photographed. After photos, a brunch reception will be held in the Event Center adjacent to the ceremony site at Vintage Villas."
 
   [[params.weddingDetails.row]]
 
     [[params.weddingDetails.row.list]]
         icon = "fa-cutlery"
         title = "Food"
-        description = "We will be serving a brunch with Stuffed French Toast, Migas, Salad, Breakfast Potatoes, Garden Vegetable Medley. A vegan option will also be available."
+        description = "Brunch including Stuffed French Toast, Migas, Breakfast Potatoes, Salad, & a Garden Vegetable Medley will be served. A vegan option will also be available. And CAKE! Of course there will be yummy delicious fabulous cake!"
 
     [[params.weddingDetails.row.list]]
-        icon = "fa-glass"
+        icon = "fa-coffee"
         title = "Drink"
-        description = "Iced Tea, Water, Fruit Punch, Orange and Cranberry Juice, and Coffee will be provided."
+        description = "Iced Tea, Water, Fruit Punch, Orange juice, Cranberry Juice, and Coffee will be provided."
 
     [[params.weddingDetails.row.list]]
         icon = "fa-bed"
         title = "Hotels"
-        description = "A small number of rooms are available, first come first serve, at the Vintage Villas. Other accommodations are available in the area. To book a room, please call the reservation line: **(512) 266-9333**."
+        description = "The few rooms in our villa at Vintage Villas have already been claimed. Other accommodations are available in the area. (Links coming soon!)"
 
 [params.schedule]
   enable = true
@@ -100,7 +100,7 @@ theme = "agency"
 [params.team]
   enable = true
 	title = "The Couple"
-	description = "Judi and Marty have known each other since the 1990's.<br/><br/>It took Marty this long to figure out she liked him."
+	description = "Judi and Marty have known each other since 1998.<br/><br/>It took Marty this long to figure out she liked him."
 
 	[[params.team.members]]
 		img = "judi.jpg"
@@ -155,7 +155,7 @@ theme = "agency"
 
     	[[params.about.events]]
     		img = "they-meet.png"
-    		date = "1997 or 1998"
+    		date = "1998"
     		title = "They Meet"
     		description = "Judi and Marty met through mutual friends."
 
