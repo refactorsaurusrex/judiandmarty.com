@@ -82,20 +82,15 @@ theme = "agency"
   enable = true
   title = "Gift Registries"
   subtitle = "For those who have expressed interest in buying a gift..."
-  description = "We haven't regisistered anywhere yet, but check back soon! This section will be updated once we've registered somewhere."
-  # description = "Although we already have most of the things we need, for those who have expressed an interest in purchasing a wedding gift, we've registered with **Bed Bath & Beyond**. Please [click here](http://google.com) to view our list of pre-selected items. We've also set up a [honeymoon fund](https://google.com), should anyone wish to contribute!"
+  description = "Although we already have most of the things we need, for those who have expressed an interest in purchasing a wedding gift, we've registered with **Bed Bath & Beyond**. Please [click here](http://google.com) to view our list of pre-selected items."
 
-  # [[params.registries]]
-  #   logo = "bed-bath-logo.png"
-  #   link = "#"
-  #
+  [[params.registries]]
+    logo = "bed-bath-logo.png"
+    link = "https://www.bedbathandbeyond.com/store/giftregistry/view_registry_guest.jsp?registryId=544260455&eventType=Wedding&pwsurl=&eventType=eventTypeRegistry"
+
   # [[params.registries]]
   #   logo = "honeymoon-fund.png"
   #   link = "#"
-
-  [[params.registries]]
-    logo = "generic-registry-image.jpg"
-    link = "#"
 
 [params.team]
   enable = true
