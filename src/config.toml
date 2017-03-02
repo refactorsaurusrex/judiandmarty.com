@@ -56,17 +56,17 @@ theme = "agency"
     [[params.weddingDetails.row.list]]
         icon = "fa-cutlery"
         title = "Food"
-        description = "Brunch including Stuffed French Toast, Migas, Breakfast Potatoes, Salad, & a Garden Vegetable Medley will be served. A vegan option will also be available. And CAKE! Of course there will be yummy delicious fabulous cake!"
+        description = "Brunch including Quiche, Stuffed French Toast, Migas, Breakfast Potatoes, Salad, & a Garden Vegetable Medley will be served. A vegan option will also be available. And CAKE! Of course there will be yummy delicious fabulous cake!"
 
     [[params.weddingDetails.row.list]]
         icon = "fa-coffee"
         title = "Drink"
-        description = "Iced Tea, Water, Fruit Punch, Orange juice, Cranberry Juice, and Coffee will be provided."
+        description = "Iced Tea, Water, Lemonade, Orange juice, Cranberry Juice, and Coffee will be provided."
 
     [[params.weddingDetails.row.list]]
         icon = "fa-bed"
         title = "Hotels"
-        description = "The few rooms in our villa at Vintage Villas have already been claimed. Other accommodations are available in the area. (Links coming soon!)"
+        description = "The few rooms in our villa at Vintage Villas have already been claimed. Other accommodations are available in the area."
 
 [params.schedule]
   enable = true
