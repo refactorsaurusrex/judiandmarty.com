@@ -3,10 +3,11 @@
     <div class="container">
         <div class="intro-text">
             <div class="intro-lead-in">{{ with .Site.Params.hero.title }}{{ . | markdownify }}{{ end }}</div>
-            <div class="intro-heading">{{ with .Site.Params.hero.subtitle }}{{ . | markdownify }}{{ end }}</div>
-            <!-- <a href="http://judiandmartywedding.rsvpify.com/" class="page-scroll btn btn-xl header-button">RSVP Now!</a>
+            <div class="intro-heading" style="margin-bottom: 25px;">{{ with .Site.Params.hero.subtitle }}{{ . | markdownify }}{{ end }}</div>
+            <div class="intro-lead-in"><a style="color: white" href="https://nickspreitzer.smugmug.com/Categories/Family/Judi-Marty-Wedding">See the pictures and videos!</a></div>
+            <!-- <a href="https://nickspreitzer.smugmug.com/Categories/Family/Judi-Marty-Wedding" class="page-scroll btn btn-xl header-button">Videos!</a>
             <div class="big header-block">- OR -</div> -->
-            <a href="#wedding-details" class="page-scroll btn btn-xl header-button">{{ with .Site.Params.hero.buttonText }}{{ . | markdownify }}{{ end }}</a>
+            <a href="#wedding-details" class="page-scroll btn btn-xl header-button">Or, Keep Reading</a>
         </div>
     </div>
 </header>

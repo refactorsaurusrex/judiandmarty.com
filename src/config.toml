@@ -1,6 +1,6 @@
 baseurl = "http://judiandmarty.com/"
 languageCode = "en-us"
-title = "Judi & Marty Are Getting Married!"
+title = "Judi & Marty Got Married!"
 theme = "agency"
 
 [params]
@@ -25,7 +25,7 @@ theme = "agency"
 #   weight = 10
 
 [params.hero]
-	title = "Judi & Marty Are Getting Married!"
+	title = "Judi & Marty Got Married!"
 	subtitle = "March 4, 2017"
 	buttonText = "Read More"
 
